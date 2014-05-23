@@ -1,0 +1,10 @@
+.pods-validation-error-field {
+  color: #f00 !important;
+  background-color: #fcc !important;
+}
+
+
+.pods-validation-error-message {
+  color: #f00;
+  font-weight: bold;
+}
